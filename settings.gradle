@@ -1,0 +1,2 @@
+rootProject.name = "sapinner_app"
+include ':app'
